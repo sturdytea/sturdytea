@@ -2,7 +2,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
 Other   2 hrs 12 mins   ████████████████████░░░░░   79.96 %
 Swift   33 mins         █████░░░░░░░░░░░░░░░░░░░░   20.04 %
