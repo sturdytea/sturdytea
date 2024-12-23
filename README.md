@@ -16,7 +16,7 @@ Wish me good luck 🍀
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 December 2024 - To: 20 December 2024
+From: 14 December 2024 - To: 21 December 2024
 
 Swift   12 hrs 17 mins  █████████████████████░░░░   84.27 %
 Other   2 hrs 14 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.34 %
