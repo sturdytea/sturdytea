@@ -15,7 +15,7 @@ Wish me good luck 🍀
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 September 2025 - To: 13 September 2025
+From: 07 September 2025 - To: 14 September 2025
 
 Swift   5 hrs 29 mins   ████████████████████████░   95.98 %
 Other   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.88 %
