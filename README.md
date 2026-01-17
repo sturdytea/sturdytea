@@ -13,7 +13,7 @@ I'm working hard to become better version of myself 🙇‍♀🏋️‍♀️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
 C            4 hrs 50 mins   ████████████░░░░░░░░░░░░░   47.64 %
 Python       1 hr 48 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.80 %
