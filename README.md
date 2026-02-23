@@ -13,9 +13,10 @@ I'm working hard to become better version of myself 🙇‍♀🏋️‍♀️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 February 2026 - To: 20 February 2026
+From: 14 February 2026 - To: 21 February 2026
 
-Python   2 hrs 45 mins         █████████████████████████   100.00 %
+Python       1 hr 34 mins          ██████████████████████▓░░   90.36 %
+JavaScript   10 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.64 %
 ```
 
 <!--END_SECTION:waka-->
