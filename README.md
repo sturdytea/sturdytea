@@ -13,11 +13,11 @@ I'm working hard to become better version of myself 🙇‍♀🏋️‍♀️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 25 March 2026 - To: 01 April 2026
+From: 26 March 2026 - To: 02 April 2026
 
-Python   5 hrs 28 mins         ████████████████████▒░░░░   80.72 %
-HTML     1 hr 11 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.69 %
-CSS      6 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+Python   5 hrs 28 mins         ████████████████████▓░░░░   83.08 %
+HTML     1 hr 6 mins           ████▒░░░░░░░░░░░░░░░░░░░░   16.74 %
+CSS      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
