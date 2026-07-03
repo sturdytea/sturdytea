@@ -13,7 +13,7 @@ I'm working hard to become better version of myself 🙇‍♀🏋️‍♀️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 June 2026 - To: 30 June 2026
+From: 24 June 2026 - To: 01 July 2026
 
 Swift   2 hrs 23 mins         ████████████████████▒░░░░   81.77 %
 Other   32 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
