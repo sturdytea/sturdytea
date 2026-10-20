@@ -13,13 +13,13 @@ I'm working hard to become better version of myself 🙇‍♀🏋️‍♀️.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 October 2026 - To: 17 October 2026
+From: 11 October 2026 - To: 18 October 2026
 
-Other      13 hrs 21 mins        ████████████████░░░░░░░░░   63.55 %
-Swift      4 hrs 56 mins         ██████░░░░░░░░░░░░░░░░░░░   23.50 %
-JSON       2 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.84 %
-YAML       18 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-Markdown   9 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Other      13 hrs 38 mins        ███████████████▓░░░░░░░░░   62.21 %
+Swift      5 hrs 37 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.66 %
+JSON       2 hrs 4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.44 %
+Markdown   19 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+YAML       14 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
 ```
 
 <!--END_SECTION:waka-->
