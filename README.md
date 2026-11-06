@@ -7,15 +7,3 @@ But I'm pretty sure it will change soon.
 ### I'm seeking for new job opportunities as an iOS Developer. 
 
 I'm working hard to become better version of myself 🙇‍♀🏋️‍♀️. 
-
-**My Activity for the past week**
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 23 October 2026 - To: 30 October 2026
-
-Swift   35 mins               █████████████████████████   100.00 %
-```
-
-<!--END_SECTION:waka-->
